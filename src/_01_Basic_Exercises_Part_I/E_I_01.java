@@ -1,6 +1,7 @@
 package _01_Basic_Exercises_Part_I;
 
     // The program organizes a numeric array and a string array.
+
     // For that, it uses the Arrays Class whose sort method organizes
     // the array and the toString method readably demonstrates the
     // indices of this array.
