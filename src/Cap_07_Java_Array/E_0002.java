@@ -1,4 +1,4 @@
-package _01_Basic_Exercises_Part_I;
+package Cap_07_Java_Array;
 
     // The program sums values of an array.
 
@@ -10,9 +10,7 @@ package _01_Basic_Exercises_Part_I;
     //      >> Arrays.stream(variable).sum();
 
 
-import java.util.Arrays;
-
-public class E_I_02 {
+public class E_0002 {
 
     public static void main(String args[]){
 

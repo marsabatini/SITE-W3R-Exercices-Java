@@ -1,4 +1,4 @@
-package _01_Basic_Exercises_Part_I;
+package Cap_07_Java_Array;
 
     // The program organizes a numeric array and a string array.
 
@@ -8,7 +8,7 @@ package _01_Basic_Exercises_Part_I;
 
 import java.util.Arrays;
 
-public class E_I_01 {
+public class E_0001 {
 
     public static void main(String args[]){
 
