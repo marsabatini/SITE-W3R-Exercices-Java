@@ -1,5 +1,6 @@
+package Cap_07_Java_Array;
 
-    // The program "removes" an element from an index.
+// The program "removes" an element from an index.
 
     /*
         NOTE
@@ -13,7 +14,6 @@
 
      */
 
-package Cap_07_Java_Array;
 
 import java.util.Arrays;
 import java.util.Scanner;
