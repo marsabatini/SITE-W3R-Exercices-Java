@@ -1,6 +1,18 @@
 package Cap_07_Java_Array;
 
-    // The program finds and prints common values (strings) between two arrays.
+    // The program finds and prints the common values (strings) between two arrays.
+
+    /*
+
+        Note
+
+        This code uses the date structure of type "Set".
+        More specifically, it uses HashSet<> whose characteristic focuses
+        on its speed when building on a HashTable.
+        It is important to highlight that there are several other  structures
+        such as TreeSet<> and LinkedHashSet<>.
+
+     */
 
 import java.util.HashSet;
 
