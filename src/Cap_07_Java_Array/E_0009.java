@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class E_0009 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int arr[] = { 24, 68, 72, 5, 12, 19, 30 };
         int index = 2;

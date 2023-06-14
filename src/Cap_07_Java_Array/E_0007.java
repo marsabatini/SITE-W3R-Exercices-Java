@@ -20,7 +20,7 @@ import java.util.Scanner;
 
 public class E_0007 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         int[] arr = {10, 4, 2, 9, 22};
         int index;

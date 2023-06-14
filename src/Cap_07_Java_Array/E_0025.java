@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class E_0025 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         ArrayList<Integer> common = new ArrayList<>();
         int[] arr1 = new int[] { 2, 4, 8 };

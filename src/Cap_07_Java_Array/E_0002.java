@@ -12,7 +12,7 @@ package Cap_07_Java_Array;
 
 public class E_0002 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arr = {10, 5, 92, 17, 94};
         int total = 0;

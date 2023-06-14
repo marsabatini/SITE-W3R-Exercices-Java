@@ -4,7 +4,7 @@ package Cap_07_Java_Array;
 
 public class E_0012 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arr = { 5, 2, 6, 6, 2, 7, 8, 5, 9, 5};
         int duplicate = 0;

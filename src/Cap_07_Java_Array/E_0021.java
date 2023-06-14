@@ -20,7 +20,7 @@ import java.util.ArrayList;
 
 public class E_0021 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         ArrayList<String> arrList = new ArrayList<>();
 

@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class E_0026 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arrOri = new int[] { 2, 0, 4, 0, 7, 0, 2 };
         int[] arrNew = new int[arrOri.length];

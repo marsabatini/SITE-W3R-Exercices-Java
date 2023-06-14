@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class E_0008 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         int qtdElement = 0;
         int count = 0;

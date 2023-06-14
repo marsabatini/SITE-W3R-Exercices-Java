@@ -3,7 +3,7 @@ package Cap_07_Java_Array;
     // This program checks whether two arrays are equal.
 public class E_0023 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] array1 =  {2, 5, 7, 9, 11};
         int[] array2 =  {2, 5, 7, 8, 11};

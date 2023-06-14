@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class E_0003 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         String[][] grid = new String[10][10];
 

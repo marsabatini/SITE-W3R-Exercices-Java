@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class E_0005 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arr = new int[20];
         int search;

@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class E_0019 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int m, n, c, d;
 

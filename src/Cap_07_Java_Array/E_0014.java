@@ -18,7 +18,7 @@ import java.util.HashSet;
 
 public class E_0014 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         String[] arr1 = { "PhP", "Java", "Python", "MySql", "C" };
         String[] arr2 = { "Java", "C++", "Assembly", "C", "Python" };

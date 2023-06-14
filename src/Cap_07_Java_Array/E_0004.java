@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class E_0004 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int[] arr = {10, 9, 24, 67};
         double sum = 0;
 

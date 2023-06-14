@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class E_0006 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int arr[] = {10, 25, 16, 89, 68, 19, 5, 64};
         int number = 0;

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class E_0020 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         String[] arr = { "JAVA", "Python", "C", "C++" };
 

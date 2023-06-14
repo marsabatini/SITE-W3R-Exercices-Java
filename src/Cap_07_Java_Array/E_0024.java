@@ -4,7 +4,7 @@ package Cap_07_Java_Array;
 
 public class E_0024 {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         int totalNum;
         int expNumSum;

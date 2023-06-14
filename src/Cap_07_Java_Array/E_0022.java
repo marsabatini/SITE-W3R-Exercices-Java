@@ -6,7 +6,7 @@ package Cap_07_Java_Array;
 
 public class E_0022 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         sumOfSpecificPairs(new int[] {1, 2, 3, 4, 6, 7, 12, 41 }, 5);
         sumOfSpecificPairs(new int[] {14, -15, 9, 16, 25, 45, 12, 8}, 30);

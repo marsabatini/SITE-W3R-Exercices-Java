@@ -11,7 +11,7 @@ import java.util.Arrays;
 
 public class E_0016 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         uniqueArray(new int[] {10, 2, 5, 6, 2, 7, 4, 5, 11});
 

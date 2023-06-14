@@ -13,7 +13,7 @@ import java.util.Arrays;
 
 public class E_0018 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arr = { 10, 5, 23, 67, 3, 182 };
 

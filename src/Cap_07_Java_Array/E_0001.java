@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 public class E_0001 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arr1 = {10, 21, 56, 15, 4, 9};
         String[] arr2 = {"Marco", "João", "Ana", "Zezé"};
