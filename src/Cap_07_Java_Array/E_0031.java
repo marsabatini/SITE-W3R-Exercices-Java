@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 public class E_0031 {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         int[] arr = new int[] {10, 77, 10, 54, -11, 10};
         System.out.println("The original array is: " + Arrays.toString(arr));
