@@ -20,8 +20,8 @@ public class E_0035 {
         for(int i = 0; i < a.size(); i++){
             if(mapNew.containsKey(a.get(i))){
                 int index = mapNew.get(a.get(i));
-                result.set(0, index );
-                result.set(1, i );
+                result.set(0, index);
+                result.set(1, i);
                 break;
             }
             else{
