@@ -2,6 +2,9 @@ package Cap_07_Java_Array;
 
     // The program prints all the LEADERS in the array.
 
+    // Note: An element is leader if it is greater
+    // than all the elements to its right side.
+
 
 public class E_0039 {
 
