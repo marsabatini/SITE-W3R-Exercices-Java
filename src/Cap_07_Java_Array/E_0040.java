@@ -1,5 +1,9 @@
 package Cap_07_Java_Array;
 
+    // This program finds the two elements in a given array
+    // of positive and negative numbers such that their sum
+    // is close to zero.
+
 public class E_0040 {
 
     public static void main (String[] args){
@@ -28,6 +32,6 @@ public class E_0040 {
         }
 
         System.out.println("Two elements whose sum is minimum are " +
-                arr[minLNum] + " and " + arr[minRNum]);
+                arr[minLNum] + " and " + arr[minRNum] + ".");
     }
 }
