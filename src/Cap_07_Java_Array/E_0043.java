@@ -5,7 +5,7 @@ package Cap_07_Java_Array;
 
 import java.util.Arrays;
 
-public class E_043 {
+public class E_0043 {
 
     public static void main(String[] args){
 
