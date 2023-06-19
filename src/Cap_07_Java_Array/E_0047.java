@@ -15,7 +15,7 @@ public class E_0047 {
     }
 
     static int countRot(int[] arr, int n){
-        
+
         int minVal = arr[0];
         int index = -1;
 
