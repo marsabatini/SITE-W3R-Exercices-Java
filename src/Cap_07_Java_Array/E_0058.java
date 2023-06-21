@@ -15,7 +15,7 @@ public class E_0058 {
 
         int countA = 0;
         int countB = 0;
-        int temp = arrC[0];
+        int temp;
 
         for(int x = 0; x < arrC.length; x++){
             if(x < arrA.length){
