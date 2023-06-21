@@ -24,7 +24,6 @@ public class E_0060 {
             if(!randomElements.contains(temp)){
                 randomElements.add(temp);
             }
-
         }
 
         for(int e: randomElements){
