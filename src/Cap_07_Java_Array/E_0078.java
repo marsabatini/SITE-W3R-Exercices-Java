@@ -19,18 +19,18 @@ public class E_0078 {
         int[] arr3 = { 1, 2, -5, -4, -3, 6 };
         boolean result3 = test(arr3);
 
-        System.out.println("The original array is: " + Arrays.toString(arr1));
+        System.out.println("The original array 1 is: " + Arrays.toString(arr1));
         System.out.println("Check negative dominant in array 1: " + result1);
 
         System.out.println();
 
-        System.out.println("The original array is: " + Arrays.toString(arr2));
-        System.out.println("Check negative dominant in array 1: " + result2);
+        System.out.println("The original array 2 is: " + Arrays.toString(arr2));
+        System.out.println("Check negative dominant in array 2: " + result2);
 
         System.out.println();
 
-        System.out.println("The original array is: " + Arrays.toString(arr3));
-        System.out.println("Check negative dominant in array 1: " + result3);
+        System.out.println("The original array 3 is: " + Arrays.toString(arr3));
+        System.out.println("Check negative dominant in array 3: " + result3);
     }
 
     public static boolean test(int[] arr){
