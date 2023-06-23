@@ -4,7 +4,7 @@ package Cap_07_Java_Array;
     // can be rearranged so that each number appears
     // exactly once in a consecutive list of numbers.
 
-    // It returns true, otherwise false.
+    // It returns "Yes, it can.", otherwise "No, it can not.".
 
 import java.util.Arrays;
 
