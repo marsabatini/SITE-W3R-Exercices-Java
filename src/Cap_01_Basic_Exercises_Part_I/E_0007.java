@@ -25,5 +25,7 @@ public class E_0007 {
 
             count++;
         }
+
+        enter.close();
     }
 }

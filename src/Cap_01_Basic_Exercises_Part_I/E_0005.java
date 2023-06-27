@@ -23,5 +23,6 @@ public class E_0005 {
 
         System.out.printf("The product of %.2f and %.2f is: %.2f", x, y, result);
 
+        enter.close();
     }
 }

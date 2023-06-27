@@ -5,7 +5,6 @@ package Cap_01_Basic_Exercises_Part_I;
 
 public class E_0002 {
 
-
     public static void main(String[] args){
 
         int x = 74;

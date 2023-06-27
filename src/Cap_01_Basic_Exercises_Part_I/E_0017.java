@@ -43,5 +43,6 @@ public class E_0017 {
         }
 
         System.out.println();
+        enter.close();
     }
 }

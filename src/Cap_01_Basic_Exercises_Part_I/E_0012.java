@@ -23,5 +23,7 @@ public class E_0012 {
         z = enter.nextDouble();
 
         System.out.println("The average is: " + ((x + y + z)/3));
+
+        enter.close();
     }
 }
