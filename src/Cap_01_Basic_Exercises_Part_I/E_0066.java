@@ -1,18 +1,36 @@
 package Cap_01_Basic_Exercises_Part_I;
 
-    // The program inserts a word in the midgle of the another string.
+    // This program computes the sum of the first 100 prime numbers.
 
 public class E_0066 {
 
     public static void main(String args[]){
 
-        String middle = "Java";
-        String sentence = "The programming.";
+        int x = 0;
+        int count = 0;
+        int sum = 1;
 
+        while(count < 100){
+            x++;
 
-        System.out.println("The word: " + middle);
-        System.out.println("The sentence: " + sentence);
-        System.out.println("The result: ");
-        System.out.println("\t" + sentence.substring(0, 3) + " " + middle + " " + sentence.substring(4));
+            if(x % 2 != 0){
+                if(isPrime(x)){
+                    sum += x;
+                }
+            }
+            count++;
+        }
+
+        System.out.println("The sum of the first 100 prime numbers is: " + sum);
+    }
+
+    public static boolean isPrime(int x){
+
+        for(int i = 3; i * i <= x; i += 2){
+            if(x % i == 0){
+                return false;
+            }
+        }
+        return true;
     }
 }
