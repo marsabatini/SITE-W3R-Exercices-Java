@@ -23,6 +23,8 @@ public class E_0063 {
         y = enter.nextInt();
 
         System.out.println("The result is: " + result(x, y));
+
+        enter.close();
     }
 
     public static int result(int x, int y) {

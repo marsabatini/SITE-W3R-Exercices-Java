@@ -24,5 +24,7 @@ public class E_0065 {
         res = x - ((x / y) * y);
 
         System.out.println("The result is: " + res);
+
+        enter.close();
     }
 }

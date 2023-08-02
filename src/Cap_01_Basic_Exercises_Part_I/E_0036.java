@@ -30,6 +30,7 @@ public class E_0036 {
 
         System.out.println("The distance between those points is: " + distance(latX, lonX, latY, lonY));
 
+        scanner.close();
     }
 
     public static double distance(double latX, double lonX, double latY, double lonY){

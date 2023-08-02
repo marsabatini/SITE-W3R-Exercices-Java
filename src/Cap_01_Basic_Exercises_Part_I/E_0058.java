@@ -23,5 +23,6 @@ public class E_0058 {
         }
         System.out.println(upper_case_line.trim());
 
+        enter.close();
     }
 }

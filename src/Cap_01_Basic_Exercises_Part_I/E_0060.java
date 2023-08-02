@@ -17,5 +17,6 @@ public class E_0060 {
 
         System.out.println("Penultimate word: " + words[words.length - 2]);
 
+        enter.close();
     }
 }

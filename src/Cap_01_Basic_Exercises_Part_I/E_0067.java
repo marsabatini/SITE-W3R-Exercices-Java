@@ -9,7 +9,6 @@ public class E_0067 {
         String middle = "Java";
         String sentence = "The programming.";
 
-
         System.out.println("The word: " + middle);
         System.out.println("The sentence: " + sentence);
         System.out.println("The result: ");

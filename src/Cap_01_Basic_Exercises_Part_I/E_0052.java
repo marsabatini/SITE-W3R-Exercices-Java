@@ -25,6 +25,8 @@ public class E_0052 {
         System.out.println("The sum is: " + (x + y));
         System.out.println("The third number is: " + z);
         System.out.println("The result is: " + sumIsEqualThirdInteger(x, y, z));
+
+        enter.close();
     }
 
     public static boolean sumIsEqualThirdInteger(int x, int y, int z){

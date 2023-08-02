@@ -35,5 +35,7 @@ public class E_0064 {
         } else {
             System.out.println("Please, the numbers must be between 25 and 75.");
         }
+
+        enter.close();
     }
 }

@@ -10,7 +10,6 @@ public class E_0050 {
 
         do {
 
-
             if ((number % 3 == 0) && (number % 5 == 0)) {
                 System.out.println("The number " + number + " is divisible by 3 and 5.");
             } else {
@@ -20,11 +19,8 @@ public class E_0050 {
                     System.out.println("The number " + number + " is divisible by 5.");
                 }
             }
-
-                number++;
-
-            }
-            while (number < 101);
-
+            number++;
         }
+        while (number < 101);
     }
+}

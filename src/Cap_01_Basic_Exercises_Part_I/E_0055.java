@@ -25,5 +25,7 @@ public class E_0055 {
 
         System.out.printf("%d:%d:%d", hou, min, sec);
 
+        scanner.close();
+
     }
 }

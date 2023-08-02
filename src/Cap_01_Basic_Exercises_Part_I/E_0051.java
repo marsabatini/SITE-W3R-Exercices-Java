@@ -22,6 +22,6 @@ public class E_0051 {
         System.out.println("The string to an integer: " + number);
         System.out.println("The type of variable is: " + number.getClass().getSimpleName());
 
-
+        enter.close();
     }
 }

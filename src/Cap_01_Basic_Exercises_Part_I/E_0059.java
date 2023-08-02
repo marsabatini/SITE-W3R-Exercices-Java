@@ -16,5 +16,7 @@ public class E_0059 {
         sentence = enter.nextLine();
 
         System.out.println(String.valueOf(sentence).toLowerCase());
+
+        enter.close();
     }
 }

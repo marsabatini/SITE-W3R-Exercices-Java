@@ -17,5 +17,6 @@ public class E_0044 {
 
         System.out.printf("%d + %d%d + %d%d%d", n, n, n, n, n, n);
 
+        enter.close();
     }
 }

@@ -23,6 +23,8 @@ public class E_0062 {
         z = scanner.nextInt();
 
         System.out.println("The result is: " + result(x, y, z));
+
+        scanner.close();
     }
 
     public static boolean result(int x, int y, int z){

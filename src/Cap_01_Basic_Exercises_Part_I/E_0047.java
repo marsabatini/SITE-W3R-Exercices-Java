@@ -14,6 +14,5 @@ public class E_0047 {
         Date data = new Date();
 
         System.out.println("The current date is: " + dataFormatada.format(data));
-
     }
 }

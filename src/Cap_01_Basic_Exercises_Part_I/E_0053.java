@@ -25,6 +25,8 @@ public class E_0053 {
         z = enter.nextInt();
 
         System.out.println("The result is: " + compareNumber(x, y, z));
+
+        enter.close();
     }
 
     public static boolean compareNumber(int x, int y, int z){

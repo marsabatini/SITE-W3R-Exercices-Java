@@ -25,6 +25,7 @@ public class E_0056 {
 
         System.out.println("The number of divisible values is: " + count(x, y, p));
 
+        scanner.close();
     }
 
     public static int count(int x, int y, int p){

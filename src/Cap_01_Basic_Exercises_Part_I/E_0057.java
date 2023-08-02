@@ -18,6 +18,8 @@ public class E_0057 {
         x = enter.nextInt();
 
         System.out.println("The result is: " + factorsNumber(x));
+
+        enter.close();
     }
 
     public static int factorsNumber(int number){

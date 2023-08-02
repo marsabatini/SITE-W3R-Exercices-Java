@@ -41,6 +41,6 @@ public class E_0038 {
         System.out.println("Numbers: " + numbers);
         System.out.println("Others: " + others);
 
-
+        enter.close();
     }
 }

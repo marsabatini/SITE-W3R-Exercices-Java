@@ -26,6 +26,7 @@ public class E_0054 {
 
         System.out.println("The result is: " + sameDigitRight(x, y, z));
 
+        enter.close();
     }
 
     public static boolean sameDigitRight(int x, int y, int z){

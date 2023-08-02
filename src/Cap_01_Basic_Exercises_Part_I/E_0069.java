@@ -33,5 +33,7 @@ public class E_0069 {
             System.out.println("The first half of string is: " + newStr);
             System.out.println("The median is: " + str.charAt(newStr.length()));
         }
+
+        enter.close();
     }
 }
