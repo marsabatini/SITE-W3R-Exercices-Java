@@ -32,7 +32,7 @@ public class E_0005 {
                 }
                 result = result + 1;
             }
-            
+
         return result;
     }
 }
